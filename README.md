@@ -25,7 +25,9 @@ Serialization formats include: YAML, JSON, XML
 
 ### <a name='object'></a>Object
 In Computer Science - Examples include: variables, data stuctures(e.g. arrays) and functions 
+
 In Object orientated programming - An instance of a class 
+
 In relational databases - Table, column or association 
 
 ### <a name='semantics'></a>Semantics
