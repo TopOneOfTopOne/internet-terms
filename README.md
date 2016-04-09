@@ -32,3 +32,6 @@ In relational databases - Table, column or association
 
 ### <a name='semantics'></a>Semantics
 Intended meaning/behaviour
+
+### <a name='oauth'></a>OAuth 2.0
+![webserverflow](https://cdn.tutsplus.com/net/uploads/2013/07/webserverflow.jpg "webserverflow")
