@@ -18,7 +18,10 @@ Software that interprets HTTP, examples: Apache, WEBrick, NGINX
 
 ### <a name='serialization'></a>Serialization/Marshalling & Deserialization/Unmarshalling
 Translating data structures(e.g. array) or [object](#object) states into a format that can be stored in memory or transmitted(e.g. over the internet). 
+
 In contrast deserialization/unmarshalling is rereading data according to the serializaed format so as the produce an identical data structure or object state i.e. simply the opposite of serialization/marshalling. Put another way it is the extraction of the data structure.
+
+Serialization formats include: YAML, JSON, XML
 
 ### <a name='object'></a>Object
 In Computer Science - Examples include: variables, data stuctures(e.g. arrays) and functions 
