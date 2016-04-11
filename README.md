@@ -34,4 +34,4 @@ In relational databases - Table, column or association
 Intended meaning/behaviour
 
 ### <a name='oauth'></a>OAuth 2.0
-![webserverflow](http://cdn.tutsplus.com/net.tutsplus.com/uploads/2013/07/webserverflow.jpg "webserverflow")
+![webserverflow](http://farm2.staticflickr.com/1681/26295812091_4f233ffa01_b.jpg "webserverflow")
