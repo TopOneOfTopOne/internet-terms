@@ -35,3 +35,6 @@ Intended meaning/behaviour
 
 ### <a name='oauth'></a>OAuth 2.0
 ![webserverflow](http://farm2.staticflickr.com/1681/26295812091_4f233ffa01_b.jpg "webserverflow")
+
+### <a name='ORM'></a>ORM(object relational mapping)
+The heart of the problem is translating the logical representation of the objects into an atomized form that is capable of being stored in the database, while preserving the properties of the objects and their relationships so that they can be reloaded as objects when needed. If this storage and retrieval functionality is implemented, the objects are said to be persistent. Active record achieves this in rails. 
