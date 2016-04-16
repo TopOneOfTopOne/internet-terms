@@ -38,3 +38,7 @@ Intended meaning/behaviour
 
 ### <a name='ORM'></a>ORM(object relational mapping)
 The heart of the problem is translating the logical representation of the objects into an atomized form that is capable of being stored in the database, while preserving the properties of the objects and their relationships so that they can be reloaded as objects when needed. If this storage and retrieval functionality is implemented, the objects are said to be persistent. Active record achieves this in rails. 
+
+### <a name='nosql'></a>NoSQL(refers to "non-sql" or "non relational" but can also be "not only sql")
+Examples: MongoDB, Cassandra, HBase, Neo4j. 
+NoSQL compliements "big data" and agile development since data is not mapped in fixed tables and types, new types of data can be easily added. Where as in SQL db if a new attribute needs to be added to a table this can be costly because everything is fixed. Furthermore NoSQL is horizontally scalable vs SQL vertical scalable. Horizontal scalability is said to be better since it is easier to achieve and there is no upper bound. 
