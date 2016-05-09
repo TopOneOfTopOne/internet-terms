@@ -42,3 +42,18 @@ The heart of the problem is translating the logical representation of the object
 ### <a name='nosql'></a>NoSQL(refers to "non-sql" or "non relational" but can also be "not only sql")
 Examples: MongoDB, Cassandra, HBase, Neo4j. 
 NoSQL compliements "big data" and agile development since data is not mapped in fixed tables and types, new types of data can be easily added. Where as in SQL db if a new attribute needs to be added to a table this can be costly because everything is fixed. Furthermore NoSQL is horizontally scalable vs SQL vertical scalable. Horizontal scalability is said to be better since it is easier to achieve and there is no upper bound. 
+
+### <a name='Composition-of-OS'></a>Composition of OS
+**Bootloader** Software that manages the boot process
+
+**The Kernel** The piece that manages the CPU, periphals, memory. This is the lowest level of the OS
+
+**Daemons** Processes that occur in the background
+
+**The shell** A command process that allows you the control the computer via commands
+
+**Graphical Server** A sub-system that displays graphics on your computer
+
+**Desktop Environment** This is the part users actually interact with, examples include (GNOME, Cinnamon) they can come with applications, games, web browers, file managers
+
+**Applications**
